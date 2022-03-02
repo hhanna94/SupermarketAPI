@@ -38,3 +38,7 @@ C:\Users\dream\Documents\Coding Dojo\C#\SupermarketAPI\obj\Debug\netcoreapp3.1\s
 C:\Users\dream\Documents\Coding Dojo\C#\SupermarketAPI\obj\Debug\netcoreapp3.1\SupermarketAPI.dll
 C:\Users\dream\Documents\Coding Dojo\C#\SupermarketAPI\obj\Debug\netcoreapp3.1\SupermarketAPI.pdb
 C:\Users\dream\Documents\Coding Dojo\C#\SupermarketAPI\obj\Debug\netcoreapp3.1\SupermarketAPI.genruntimeconfig.cache
+C:\Users\dream\Documents\Coding Dojo\C#\SupermarketAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\dream\Documents\Coding Dojo\C#\SupermarketAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dream\Documents\Coding Dojo\C#\SupermarketAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dream\Documents\Coding Dojo\C#\SupermarketAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
